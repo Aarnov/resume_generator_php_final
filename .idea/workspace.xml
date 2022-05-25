@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e1f8396-8327-4f1b-af83-90026b8b7973" name="Changes" comment="14th may finalized">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../php" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="24PBA4qHdwUopzcJpstpOs9bANf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\resume_generator\crud\upload" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\resume_generator" />
+      <recent name="C:\xampp\htdocs\resume_generator\crud" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../../../Program Files/nodejs/node" nameIsGenerated="true" node-parameters="$/FilePathRelativeToProjectRoot$" path-to-js-file="script.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e1f8396-8327-4f1b-af83-90026b8b7973" name="Changes" comment="" />
+      <created>1643522195419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643522195419</updated>
+      <workItem from="1643522196975" duration="589000" />
+      <workItem from="1643524159024" duration="426000" />
+      <workItem from="1643537658313" duration="1267000" />
+      <workItem from="1643600478514" duration="217000" />
+      <workItem from="1645711587688" duration="498000" />
+      <workItem from="1645773819796" duration="296000" />
+      <workItem from="1646280401018" duration="2154000" />
+      <workItem from="1646368279291" duration="2491000" />
+      <workItem from="1646378574199" duration="635000" />
+      <workItem from="1646379509093" duration="3526000" />
+      <workItem from="1646624080028" duration="2810000" />
+      <workItem from="1646754319310" duration="84000" />
+      <workItem from="1646883973779" duration="1506000" />
+      <workItem from="1646885690748" duration="942000" />
+      <workItem from="1647177482777" duration="139000" />
+      <workItem from="1647578744834" duration="1623000" />
+      <workItem from="1647835921021" duration="3285000" />
+      <workItem from="1648093641789" duration="672000" />
+      <workItem from="1648095548372" duration="186000" />
+      <workItem from="1648208389775" duration="237000" />
+      <workItem from="1648208858785" duration="278000" />
+      <workItem from="1648438726725" duration="3902000" />
+      <workItem from="1649251547617" duration="324000" />
+      <workItem from="1650007703413" duration="2097000" />
+      <workItem from="1650013162711" duration="2224000" />
+      <workItem from="1650019002709" duration="4028000" />
+      <workItem from="1650086343607" duration="7555000" />
+      <workItem from="1650168662166" duration="3600000" />
+      <workItem from="1650251033173" duration="4162000" />
+      <workItem from="1650255238704" duration="2839000" />
+      <workItem from="1650289755572" duration="4132000" />
+      <workItem from="1650299531721" duration="2409000" />
+      <workItem from="1650344863665" duration="1067000" />
+      <workItem from="1650346023629" duration="784000" />
+      <workItem from="1650355523121" duration="1190000" />
+      <workItem from="1650357337310" duration="112000" />
+      <workItem from="1650374806132" duration="4687000" />
+      <workItem from="1650380198609" duration="4687000" />
+      <workItem from="1650510559761" duration="2603000" />
+      <workItem from="1650516075190" duration="1375000" />
+      <workItem from="1650531686639" duration="628000" />
+      <workItem from="1650614725006" duration="748000" />
+      <workItem from="1650615706335" duration="841000" />
+      <workItem from="1650616600841" duration="95000" />
+      <workItem from="1650619493681" duration="59000" />
+      <workItem from="1650620093834" duration="1449000" />
+      <workItem from="1650623352959" duration="4184000" />
+      <workItem from="1650810443356" duration="900000" />
+      <workItem from="1650858239954" duration="59000" />
+      <workItem from="1650960500049" duration="312000" />
+      <workItem from="1650960836512" duration="56000" />
+      <workItem from="1651117399592" duration="1853000" />
+      <workItem from="1651120057531" duration="1800000" />
+      <workItem from="1651155905452" duration="142000" />
+      <workItem from="1651337972294" duration="1928000" />
+      <workItem from="1651462466985" duration="305000" />
+      <workItem from="1651463665996" duration="2553000" />
+      <workItem from="1651678725163" duration="3724000" />
+      <workItem from="1651721312135" duration="1948000" />
+      <workItem from="1651725511300" duration="735000" />
+      <workItem from="1651989990738" duration="1655000" />
+      <workItem from="1652008451593" duration="789000" />
+      <workItem from="1652018010696" duration="1120000" />
+      <workItem from="1652066646896" duration="1538000" />
+      <workItem from="1652497541727" duration="34000" />
+      <workItem from="1652499141419" duration="87000" />
+      <workItem from="1652499241719" duration="1085000" />
+      <workItem from="1652505217903" duration="246000" />
+      <workItem from="1652505890991" duration="1284000" />
+      <workItem from="1652889834842" duration="2078000" />
+      <workItem from="1653050131656" duration="17000" />
+      <workItem from="1653197283184" duration="1179000" />
+      <workItem from="1653198507790" duration="360000" />
+      <workItem from="1653483088958" duration="347000" />
+      <workItem from="1653490200784" duration="997000" />
+    </task>
+    <task id="LOCAL-00001" summary="hh">
+      <created>1646624563089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646624563089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Image added.">
+      <created>1646627253679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646627253679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Image added.">
+      <created>1647837547963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647837547963</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Image added.">
+      <created>1648439859748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648439859748</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Image added.">
+      <created>1650087169060</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650087169060</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Image added.">
+      <created>1650293913226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650293913226</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Image added.">
+      <created>1650374903804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650374903804</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Image added.">
+      <created>1650379954309</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650379954309</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Image added.">
+      <created>1650382859754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650382859754</updated>
+    </task>
+    <task id="LOCAL-00010" summary="14th may finalized">
+      <created>1653490950058</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653490950058</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/resume_generator" />
+    </ignored-roots>
+    <MESSAGE value="hh" />
+    <MESSAGE value="Revert &quot;Image added.&quot;&#10;&#10;This reverts commit c0551da3" />
+    <MESSAGE value="Image added." />
+    <MESSAGE value="14th may finalized" />
+    <option name="LAST_COMMIT_MESSAGE" value="14th may finalized" />
+  </component>
+</project>
